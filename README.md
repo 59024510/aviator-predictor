@@ -68,7 +68,7 @@ Connect with fellow users on our **Aviator Predictor Telegram** group! Share tip
 
 ## Contributing
 
-We welcome contributions! If you're interested in improving the **Aviator Predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://Avitsa.github.io/aviator-predictor).
+We welcome contributions! If you're interested in improving the **Aviator Predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines]).
 
 ## License
 
